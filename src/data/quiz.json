@@ -1,0 +1,108 @@
+[
+    {
+        "id": 1,
+        "question": "What is the capital of France?",
+        "options": [
+            {
+                "answer": "Paris",
+                "isCorrect": true
+            },
+
+            {
+                "answer": "New York",
+                "isCorrect": false
+            },
+
+            {
+                "answer": "London",
+                "isCorrect": false
+            },
+
+            {
+                "answer": "Dublin",
+                "isCorrect": false
+            }
+        ]
+    },
+
+    {
+        "id": 2,
+        "Question": "Which animal is a mammal?",
+        "options": [
+            {
+                "answer": "spider",
+                "isCorrect": false
+            },
+
+            {
+                "answer": "frog",
+                "isCorrect": false
+            },
+
+            {
+                "answer": "Lion",
+                "isCorrect": true
+            },
+
+            {
+                "answer": "fish",
+                "isCorrect": false
+            }
+        ]
+
+    },
+
+
+    {
+    "id": 3,
+    "Question": "What number is an even number?",
+    "options":[
+        {
+            "answer": 49,
+            "isCorrect": false
+        },
+
+        {
+            "answer": 21,
+            "isCorrect": false
+        },
+
+        {
+            "answer": 11,
+            "isCorrect": true
+        },
+
+        {
+            "answer": 107,
+            "isCorrect": false
+        }
+    ]
+},
+
+{
+    "id": 4,
+    "Question": "What character is known for... stealing from the rich and giving to the poor?",
+    "options":[
+        {
+            "answer": "spider man",
+            "isCorrect": false
+        },
+
+        {
+            "answer": "Robin Hood",
+            "isCorrect": true
+        },
+
+        {
+            "answer": "Batman",
+            "isCorrect": false
+        },
+
+        {
+            "answer": "King John",
+            "isCorrect": false
+        }
+    ]
+
+}
+]
